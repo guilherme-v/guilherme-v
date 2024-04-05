@@ -4,10 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:silva.guilherme09@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/GuiSilvaV?color=d83a7c&logoColor=d83a7c&style=flat-square&logo=Twitter)](https://twitter.com/GuiSilvaV)
 
-- 📞 I'm a software engineering focused on Mobile Development - almost 10 (happy?) years working with it 😬
+- 📞 I'm a software engineering focused on Mobile Development - almost 15 years working with it 😬
 - 💬 But you can ask me about: `Clean Architecture`, `Flutter`, `Android`, `iOS`, `RoR`, `.NET Core`, `Phoenix`, `LiveView`...
 - 🌱 Learning more about and studying: Backend development in general and CS Algorithms
-- 👨‍💻 I’m currently working full-time remotely at [<img height="12" src="https://s2.coinmarketcap.com/static/img/coins/200x200/1403.png">FirstBlood.io](https://firstblood.io) as a Flutter Developer
+- 👨‍💻 I’m currently working full-time remotely @Mana as a Flutter Developer
 - 📃 I blog here: https://medium.com/@valiodas
 - 📫 How to reach me: @GuiSilvaV
 
